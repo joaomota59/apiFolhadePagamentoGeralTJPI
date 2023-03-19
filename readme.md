@@ -16,3 +16,6 @@
 > ano = ano da folha de pagamento Ex: 2020, 2021, 2022, 2023... </br>
 > mes = mes da folha de pagamento Ex: 1,2,3,4... </br>Obs: 1 corresponde a Janeiro, 2 a Fevereiro...</br>
 > page = responsavel pela paginação da folha de pagamento... Ex: 1,2,3,4...</br>
+
+## Exemplo de entrada com o uso do Swagger
+![Parâmetros de entrada](https://imgur.com/d4bEnhJ)
