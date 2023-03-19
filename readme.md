@@ -4,7 +4,7 @@
 ```pip install -r requirements.txt```
 
 ## Inicialização da API
-```uvicorn apiTJPI:app --reload```
+```python -m uvicorn apiTJPI:app --reload```
 
 ## Rotas
 
