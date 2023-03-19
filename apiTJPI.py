@@ -1,7 +1,7 @@
 from tjpiLibrary import folhaGeral
 from fastapi import FastAPI, Query
 
-app = FastAPI()
+app = FastAPI(title="API TJPI", description="API para consulta de folha de pagamento do TJPI", version="0.1.0")
 
 @app.get("/geral/")
 async def read_item(

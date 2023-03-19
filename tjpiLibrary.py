@@ -1,9 +1,6 @@
-from datetime import datetime as dtime
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-import asyncio
-
 
 def folhaGeral(mes = 1,ano = 2020, page = 1):
     
