@@ -18,4 +18,4 @@
 > page = responsavel pela paginação da folha de pagamento... Ex: 1,2,3,4...</br>
 
 ## Exemplo de entrada com o uso do Swagger
-![Parâmetros de entrada](https://imgur.com/d4bEnhJ)
+![Parâmetros de entrada](https://imgur.com/d4bEnhJ.png)
